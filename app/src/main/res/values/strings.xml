@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MUJI自動チェックイン</string>
+    <string name="service_label">MUJI自動チェックイン</string>
+    <string name="service_description">MUJIアプリに表示される「チェックイン」ボタンを自動でタップします。MUJIアプリ以外の画面内容は読み取りません（前面アプリ名のみ、元の画面に戻るために記録します）。</string>
+</resources>
